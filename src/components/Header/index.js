@@ -53,7 +53,7 @@ const Header = () => (
         <a href="https://twitter.com/fadysamirsadek" className="nav-item-link" style={{ color: 'white', textDecoration: 'none' }}>
           <h2 className="nav-item">Twitter</h2>
         </a>
-        <Link to="" className="nav-item-link" style={{ color: 'white', textDecoration: 'none' }}>
+        <Link to="/contact" className="nav-item-link" style={{ color: 'white', textDecoration: 'none' }}>
           <h2 className="nav-item">Contact</h2>
         </Link>
       </nav>
