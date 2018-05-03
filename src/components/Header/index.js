@@ -47,12 +47,6 @@ const Header = () => (
         <Link to="/about" className="nav-item-link" style={{ color: 'white', textDecoration: 'none' }}>
           <h2 className="nav-item">About</h2>
         </Link>
-        <a href="https://github.com/FadySamirSadek" className="nav-item-link" style={{ color: 'white', textDecoration: 'none' }}>
-          <h2 className="nav-item">Github</h2>
-        </a>
-        <a href="https://twitter.com/fadysamirsadek" className="nav-item-link" style={{ color: 'white', textDecoration: 'none' }}>
-          <h2 className="nav-item">Twitter</h2>
-        </a>
         <Link to="/contact" className="nav-item-link" style={{ color: 'white', textDecoration: 'none' }}>
           <h2 className="nav-item">Contact</h2>
         </Link>
